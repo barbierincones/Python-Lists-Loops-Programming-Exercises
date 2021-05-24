@@ -8,7 +8,7 @@
 USA UN `CICLO!!!` y un `IF (condicional)`
 
 
-Elemento sorprea:
+Elemento sorpresa:
 ¿Qué pasa si hay más de un Wally?
 
 

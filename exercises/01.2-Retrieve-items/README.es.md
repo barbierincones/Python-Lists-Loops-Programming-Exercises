@@ -9,5 +9,5 @@ my_value = list[index]
 ```
 
 ## 📝 Instrucciones
-1. Imprime en la consola el 1er elemento de la lista
-2. Imprime en la consola el 4to elemento de la lista
+1. Imprime en la consola el 1er elemento de la lista.
+2. Imprime en la consola el 4to elemento de la lista.

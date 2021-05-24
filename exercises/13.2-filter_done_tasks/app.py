@@ -11,5 +11,11 @@ tasks = [
 ]
 
 
-#Your code go here:
+def my_tasks(object):
+	if object['done'] == True:
+		return object
+
+
+transformed_data = list(filter(my_tasks, tasks))
+print(transformed_data)
 

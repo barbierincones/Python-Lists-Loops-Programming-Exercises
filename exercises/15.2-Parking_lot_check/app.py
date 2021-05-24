@@ -4,6 +4,10 @@ parking_state = [
   [1,1,2]
 ]
 
-#Your code go here:
+
+def get_parking_lot(parking):
+  pass
+
+print(get_parking_lot(parking_state))
 
 

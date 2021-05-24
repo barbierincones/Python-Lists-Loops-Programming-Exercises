@@ -5,7 +5,7 @@ Estás trabajando con un DJ que necesita un programa que pueda crear latidos par
 1. Crea una función lyrics_generator que reciba una lista
     La lista pasada a la función será algo como esto:
     [0,0,1,1,0,0,0]
-2. Para cada Cero añadirás al la cadena de caracteres 'Boom'
+2. Para cada Cero añadirás a la cadena de caracteres 'Boom'
 3. Para cada Uno añadirás la cadena de caracteres 'Drop the base'
 
 # Restricciones

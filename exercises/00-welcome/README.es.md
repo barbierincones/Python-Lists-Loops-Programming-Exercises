@@ -13,7 +13,7 @@ En este curso aprenderás los siguientes conceptos:
 - Filtrar una lista.
 - Crear una matriz.
 - Combinar dos listas.
-- Cómo combiar y usar todos estos conceptos de diferentes maneras.
+- Cómo combinar y usar todos estos conceptos de diferentes maneras.
 
 Por favor, presiona el botón de `Next →` de arriba a la derecha para ir al primer reto.
 

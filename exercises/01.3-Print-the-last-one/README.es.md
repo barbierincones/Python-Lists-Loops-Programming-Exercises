@@ -7,10 +7,10 @@ Sabes que la propiedad:
 len(name_list) # funcion
 ```
 
-devuelve la `longitud de` (`length of`) nombre_lista .
+devuelve la `longitud de` (`length of`) nombre_lista.
 
 ## 📝 Instrucciones
-1. Importa la función `random` al inicio del archivo/fichero
+1. Importa la función `random` al inicio del archivo/fichero.
 2. Crea una variable llamada the_last_one y asígnale el último elemento de my_stupid_list.
 3. Imprime the_last_one en la consola.
 

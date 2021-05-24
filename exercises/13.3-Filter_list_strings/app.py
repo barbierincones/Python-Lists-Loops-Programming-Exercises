@@ -6,4 +6,10 @@ names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan
 'Samuel','Grace','Sebastian','Chloe','David','Camila','Carter','Penelope','Wyatt','Riley']
 
 
-#Your code go here:
+def filter_function(items):
+    if items.__contains__("am"):
+        return True
+
+resulting_names = list(filter(filter_function, names))
+print(resulting_names)
+

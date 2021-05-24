@@ -1,9 +1,14 @@
 people = ['juan','ana','michelle','daniella','stefany','lucy','barak']
 
-#Your code go here:
 def deletePerson(person_name):
-    #Your code go here:
-    
+    new_people = []
+    for item in people:
+        if item == person_name:
+            continue
+        else:
+            new_people.append(item)
+    return (new_people)
+
 print(deletePerson("daniella"))
 print(deletePerson("juan"))
 print(deletePerson("emilio"))

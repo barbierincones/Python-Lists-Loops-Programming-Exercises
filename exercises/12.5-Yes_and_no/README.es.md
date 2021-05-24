@@ -2,7 +2,7 @@
 
 # 📝 Instrucciones
 1. Por favor, usa la funcionalidad de mapeo de lista para iterar la lista de buleanos y crear una nueva lista
-   que contentdrá el texto 'wiki' por cada 1 y 'woko' por cada 0 que tenga la lista original.
+   que contendrá el texto 'wiki' por cada 1 y 'woko' por cada 0 que tenga la lista original.
 2. Imprime la nueva lista en la consola.
 
 ```py

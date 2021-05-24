@@ -2,7 +2,7 @@
 
 # 📝 Instrucciones:
 1. Escribe una función para imprimir en la consola los tipos
-de los valores contenidos en la lista en cada posición
+de los valores contenidos en la lista en cada posición.
 2. Puedes usar el ciclo `for`.
 
 ```py

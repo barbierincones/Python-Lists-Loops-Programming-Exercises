@@ -1,7 +1,7 @@
 # `12.4` Mapeando lista de objetos
 
 El escenario más común para la función de mapeo es simplificar listas dadas, por ejemplo:
-El actual algorimo crea una lista con solo los nombres de personas y los imprime en la consola.
+El actual algoritmo crea una lista con solo los nombres de personas y los imprime en la consola.
 
 # 📝 Instrucciones
 

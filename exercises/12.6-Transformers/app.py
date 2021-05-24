@@ -6,6 +6,10 @@ incomingAJAXData = [
 	{ "name": 'Bobby', "lastName": 'Mc birth' }
 ]
 
-#Your code go here:
+def my_var(object):
+	return object['name'] +" "+ object['lastName']
+
+transformed_data = list(map(my_var, incomingAJAXData ))
+print(transformed_data)
 
 

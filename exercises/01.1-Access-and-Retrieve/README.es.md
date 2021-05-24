@@ -22,6 +22,6 @@ Protip: ¡Cada lista empieza en cero (0)! Así que para obtener el primer elemen
 
 ## 📝 Instrucciones
 
-1. Using the print() function, print the 3rd item from the list.
-2. Change the value in the position where 'Thursday' is located to None.
-3. Print the particular position of the step two.
+1. Usando la función print (), imprima el tercer elemento de la lista.
+2. Cambie el valor en la posición donde se encuentra 'Jueves' a Ninguno.
+3. Imprime la posición particular del paso dos.

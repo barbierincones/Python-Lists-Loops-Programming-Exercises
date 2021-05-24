@@ -9,9 +9,9 @@
 # Para hacer el ejercicio, considera:
 
 - Necesitas `declarar una variable auxiliar fuera del ciclo` para llevar la suma de valores.
-- Crea una función
+- Crea una función.
 - Tienes que `iterar la lista`.
-- En cada iteración, tienes que preguntar en esa posición de la lista es un número impar.
+- En cada iteración, tienes que preguntar si en esa posición de la lista es un número impar.
 - Si es impar, entonces añádelo a la `variable auxiliar`.
 
 ## 💡 Pista:

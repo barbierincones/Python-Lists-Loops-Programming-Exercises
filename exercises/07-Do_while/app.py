@@ -1,2 +1,9 @@
+time = 20
 
-#Your code go here:
+while time > -1:
+    if time % 5 == 0:
+        print(f'{time}!')
+    else:
+        print(time)
+    time -= 1
+print("LISTOFF")

@@ -1,6 +1,6 @@
 # `08` Borrar un elemento
 
-La unica forma de borrar a `Daniella` de la lista (sin trampas)
+La única forma de borrar a `Daniella` de la lista (sin trampas)
 será crear una nueva lista con todas las demás personas, excepto Daniella.
 
 # 📝 Instrucciones

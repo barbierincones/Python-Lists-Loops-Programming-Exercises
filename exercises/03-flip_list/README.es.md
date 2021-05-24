@@ -1,7 +1,7 @@
 # `03` Lista volteada
 
 # 📝 Instrucciones:
-1. Crea la variable new_list
+1. Crea la variable new_list.
 2. Usando un ciclo, invierte la lista "arr".
 3. Agrega el resultado del ciclo a la variable new_list.
 4. Con la función print() imprime en la consola el resultado obtenido.
